@@ -1,16 +1,12 @@
-# gpt_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ChatBot App
+## Description: 
+ ### A chatbot application built using the ChatGPT API powered by DavinciE API keys are managed in the `.env` file.
+## Technologies: 
+  ### API Integration, DavinciE3, Content Generation.
+## Features:
+  ### ChatGPT API integration.
+  ### Secure API key management.
+  ## Installation:
+   ### Clone the repository.
+   ### Add your API keys to the `.env` file.
+   ### Run `flutter pub get` and `flutter run`.
